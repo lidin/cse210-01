@@ -6,4 +6,4 @@
 """The program must have a function called main"""
 
 
-def main()
+# def main():
